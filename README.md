@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @flyuk
+- 👋 Hi, I’m @flyuk, People call me Fred and my pronouns are he/him
 - 👀 I’m interested in anything security related
 - 🌱 I’m currently learning more about the cyber security domain
 - 💞️ I’m looking to collaborate on anthing that might help me learn more about coding, pipelines and CI
